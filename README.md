@@ -1,5 +1,7 @@
 # Pizza_Sales_Analysis
 
+Converted CSV files into Database then try solve some questions using MySql Workbench.
+
 ## Basic:
 
 1. Retrieve the total number of orders placed.
