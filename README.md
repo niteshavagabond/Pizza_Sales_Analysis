@@ -16,6 +16,7 @@ FROM
     order_details
         JOIN
     PIZZAS ON ORDER_DETAILS.PIZZA_ID = PIZZAS.PIZZA_ID;
+    
 3. Identify the highest-priced pizza.
 
 SELECT 
