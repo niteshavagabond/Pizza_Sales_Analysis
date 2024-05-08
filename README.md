@@ -102,7 +102,7 @@ ORDER BY total_revenue DESC
 LIMIT 3;
 
 
-Advanced:
+## Advanced:
 
 1. Calculate the percentage contribution of each pizza type to total revenue.
 
